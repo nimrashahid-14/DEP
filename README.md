@@ -25,7 +25,6 @@ By analyzing historical sales data, we can uncover patterns and trends that help
    - Visual representation of clusters
    - Insights derived from the segments
 
-Data
 The dataset used for this project consists of historical sales transactions from a retail store. 
 
 Technologies Used:
