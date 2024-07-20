@@ -1,5 +1,5 @@
 # House Price Prediction Model
-This repository contains the dataset and code for a house price prediction model built using machine learning techniques. The model aims to predict the prices of houses based on various features such as the number of bedrooms, size of the house, location, etc.
+This folder contains the dataset and code for a house price prediction model built using machine learning techniques. The model aims to predict the prices of houses based on various features such as the number of bedrooms, size of the house, location, etc.
 
 ## Contents
 - *dataset*: Contains the house price dataset used for training and testing the model.
